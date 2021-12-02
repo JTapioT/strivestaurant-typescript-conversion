@@ -7,6 +7,7 @@ import NotFound from './components/NotFound'
 import Menu from './components/Menu'
 import Booking from './components/Booking'
 import Details from './components/Details'
+import React, { Component } from 'react'
 
 function App() {
   return (
